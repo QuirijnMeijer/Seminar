@@ -8,7 +8,7 @@ body {
 
 #top {
 	margin: 0 auto;
-	width: 60%;
+	width: 80%;
 }
 
 #bar {
@@ -61,7 +61,7 @@ a:active {
 
 #content {
 	display: inline-block;
-	width: 56%;
+	width: 76%;
 	background-color: white;
 	padding-top: 2px;
 	padding-left: 2px;
