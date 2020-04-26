@@ -8,18 +8,17 @@ body {
 
 #top {
 	margin: 0 auto;
-	max-width: 1200px;
+	width: 60%;
 }
 
 #bar {
-	max-width: 100%;
-	max-width: 1200px;
+	width: 60%;
 	background-color: rgb(60, 60, 70);
 }
 
 #banner {
 	height: auto; 
-    width: auto; 
+	width: auto; 
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 }
@@ -27,7 +26,7 @@ body {
 #title {
 	border-top: 1px solid black;
 	background-color: rgb(60, 60, 70);
-	border-bottom: 1px dashed black;
+	border-bottom: 1px dashed rgb(60, 60, 70);
 }
 
 h1 {
@@ -64,7 +63,7 @@ a:active {
 
 #content {
 	display: inline-block;
-	max-width: 1004px;
+	width: 56%;
 	background-color: white;
 	padding-top: 2px;
 	padding-left: 2px;
