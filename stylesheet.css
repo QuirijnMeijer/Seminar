@@ -12,13 +12,11 @@ body {
 }
 
 #bar {
-	width: 60%;
 	background-color: rgb(60, 60, 70);
 }
 
 #banner {
-	height: auto; 
-	width: auto; 
+	width: 99%;
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 }
