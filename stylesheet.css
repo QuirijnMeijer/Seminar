@@ -12,6 +12,7 @@ body {
 }
 
 #bar {
+	max-width: 100%;
 	max-width: 1200px;
 	background-color: rgb(60, 60, 70);
 }
