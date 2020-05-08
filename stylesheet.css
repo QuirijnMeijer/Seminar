@@ -12,6 +12,7 @@ body {
 }
 
 #bar {
+	position: relative;
 	background-color: rgb(60, 60, 70);
 }
 
@@ -19,6 +20,12 @@ body {
 	width: 99.6%;
 	border-left: 1px solid black;
 	border-right: 1px solid black;
+}
+
+#credit {
+	position: absolute;
+	bottom: 6px;
+	right: 12px;
 }
 
 #title {
@@ -70,6 +77,11 @@ a:active {
 	padding-top: 2px;
 	padding-left: 2px;
 	padding-right: 2px;
+}
+
+cred {
+	font-size: 10pt;
+	color: white;
 }
 
 stress {
